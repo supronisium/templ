@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Irish coffee",
+    "picture": "coffee-1.jpg",
+    "category": "coffee"
+  },
+  {
+    "name": "Kahlua coffee",
+    "picture": "coffee-2.jpg",
+    "category": "coffee"
+  },
+    {
+    "name": "Honey raf",
+    "picture": "coffee-3.jpg",
+    "category": "coffee"
+  },
+    {
+    "name": "Ice cappuccino",
+    "picture": "coffee-4.jpg",
+    "category": "coffee"
+  },
+    {
+    "name": "Espresso",
+    "picture": "coffee-5.jpg",
+    "category": "coffee"
+  },
+    {
+    "name": "Latte",
+    "picture": "coffee-6.jpg",
+    "category": "coffee"
+  },
+    {
+    "name": "Latte macchiato",
+    "picture": "coffee-7.jpg",
+    "category": "coffee"
+  },
+    {
+    "name": "Coffee with cognac",
+    "picture": "coffee-8.jpg",
+    "category": "coffee"
+  },
+    {
+    "name": "Moroccan",
+    "picture": "tea-1.jpg",
+    "category": "tea"
+  },
+    {
+    "name": "Ginger",
+    "picture": "tea-2.jpg",
+    "category": "tea"
+  },
+    {
+    "name": "Cranberry",
+    "picture": "tea-3.jpg",
+    "category": "tea"
+  },
+    {
+    "name": "Sea buckthorn",
+    "picture": "tea-4.jpg",
+    "category": "tea"
+  },
+  {
+    "name": "Marble cheesecake",
+    "picture": "dessert-1.jpg",
+    "category": "dessert"
+  },
+  {
+    "name": "Red velvet",
+    "picture": "dessert-2.jpg",
+    "category": "dessert"
+  },
+  {
+    "name": "Cheesecakes",
+    "picture": "dessert-3.jpg",
+    "category": "dessert"
+  },
+  {
+    "name": "Creme brulee",
+    "picture": "dessert-4.jpg",
+    "category": "dessert"
+  },
+  {
+    "name": "Pancakes",
+    "picture": "dessert-5.jpg",
+    "category": "dessert"
+  },
+  {
+    "name": "Honey cake",
+    "picture": "dessert-6.jpg",
+    "category": "dessert"
+  },
+  {
+    "name": "Chocolate cake",
+    "picture": "dessert-7.jpg",
+    "category": "dessert"
+  },
+  {
+    "name": "Black forest",
+    "picture": "dessert-8.jpg",
+    "category": "dessert"
+  }
+]
